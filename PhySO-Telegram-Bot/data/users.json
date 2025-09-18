@@ -1,0 +1,70 @@
+{
+  "383578263": {
+    "telegram_id": "383578263",
+    "username": "MgDuck",
+    "first_name": "Андрей",
+    "name": "Андрей",
+    "credits": 2149,
+    "total_predictions": 12,
+    "created_at": "2025-09-16 04:25:05.015091",
+    "physo_user_id": 1,
+    "physo_api_key": "test-api-key-123",
+    "last_file": {
+      "csv_file_path": "data/uploads/383578263_582d9aef.csv",
+      "csv_validation": {
+        "valid": true,
+        "shape": [
+          8,
+          2
+        ],
+        "columns": [
+          "x",
+          "y"
+        ],
+        "numeric_columns": [
+          "x",
+          "y"
+        ],
+        "suggested_y": "y",
+        "suggested_x": [
+          "x"
+        ]
+      },
+      "csv_filename": "test_data.csv"
+    }
+  },
+  "1094825050": {
+    "telegram_id": "1094825050",
+    "username": "olya_shalashova",
+    "first_name": "Оля",
+    "name": "Оля",
+    "credits": 98,
+    "total_predictions": 1,
+    "created_at": "2025-09-17T18:09:32.130483",
+    "physo_user_id": 1,
+    "physo_api_key": "test-api-key-123",
+    "last_file": {
+      "csv_file_path": "data/uploads/1094825050_cf15f744.csv",
+      "csv_validation": {
+        "valid": true,
+        "shape": [
+          8,
+          2
+        ],
+        "columns": [
+          "x",
+          "y"
+        ],
+        "numeric_columns": [
+          "x",
+          "y"
+        ],
+        "suggested_y": "y",
+        "suggested_x": [
+          "x"
+        ]
+      },
+      "csv_filename": "test_data.csv"
+    }
+  }
+}

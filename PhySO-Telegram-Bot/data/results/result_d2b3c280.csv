@@ -1,0 +1,22 @@
+Parameter,Value
+Status,completed
+Best Formula,"            x         
+x + ──────────────────
+    ⎛       1        ⎞
+    ⎜────────────────⎟
+    ⎜             0.5⎟
+    ⎜⎛    0.5    ⎞   ⎟
+    ⎜⎜   x       ⎟   ⎟
+    ⎜⎜───────────⎟   ⎟
+    ⎜⎜        0.5⎟   ⎟
+    ⎝⎝(-x + x)   ⎠   ⎠"
+R² Score,
+Epochs Used,20
+Processing Time (ms),27586
+Pareto Solutions Count,5
+Total Cost,0.03
+Configuration Used,config0
+Metadata: formula_length,229
+Metadata: data_shape,1x8
+Metadata: timestamp,2025-09-17T04:50:32.505255
+Metadata: is_physical,True

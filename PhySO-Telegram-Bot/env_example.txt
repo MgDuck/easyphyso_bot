@@ -1,0 +1,10 @@
+# Скопируйте этот файл в .env и заполните настройки
+
+# Telegram Bot Token (получить у @BotFather)
+BOT_TOKEN=your_bot_token_here
+
+# URL PhySO API сервиса
+PHYSO_API_BASE_URL=http://localhost:53251/api/v1
+
+# Ваш Telegram ID (для админских функций)
+ADMIN_ID=123456789
